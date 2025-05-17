@@ -28,4 +28,6 @@ p3a(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screensh
 
 p3b1(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20000310.png)
 
+p3b2(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20000744.png)
+
 
