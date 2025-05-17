@@ -9,3 +9,5 @@ p1b3(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screens
 p1b4(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-17%20230337.png)
 
 p1b5(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-17%20230732.png)
+
+p1c1(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-17%20231158.png)
