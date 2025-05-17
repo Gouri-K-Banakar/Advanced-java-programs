@@ -38,4 +38,6 @@ p3b5(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screens
 
 p3c1(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20002037.png)
 
+p3c2(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20002532.png)
+
 
