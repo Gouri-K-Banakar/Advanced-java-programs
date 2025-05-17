@@ -22,4 +22,6 @@ p1c5(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screens
 
 p2a(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-17%20233614.png)
 
+p2b(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-17%20234054.png)
+
 
