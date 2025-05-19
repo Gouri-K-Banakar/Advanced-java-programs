@@ -60,7 +60,7 @@ p5c1(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screens
 
 p5c2(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20120424.png)
 
-p5d(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20114730.png)
+p5d(https://github.com/Gouri-K-Banakar/Advanced-java-programs/blob/main/Screenshot%202025-05-18%20115804.png)
 
 
 
